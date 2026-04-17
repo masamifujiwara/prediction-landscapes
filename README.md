@@ -83,10 +83,10 @@ Each script includes a header describing its purpose along with its input and ou
 
 ### Data
 
-The raw data download and initial processing are documented in `a_getdata.R`. This script is **not intended to be rerun** by users, as it depends on the original local data environment and file paths. The prepared data object `Data.RData` is provided directly and serves as the starting point for the analysis workflow.
+The raw data download and initial processing are documented in `a_getdata.R`. This script is **not intended to be rerun** by users, as it depends on the original local data environment and file paths. The prepared data object `Data.RData` is provided directly and serves as the starting point for the analysis workflow. These data are provided solely to enable validation and reproduction of the results presented in this study. They are not intended for use in new analyses or publications without prior permission from the Texas Parks and Wildlife Department.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+The code in this repository is licensed under the [MIT License](LICENSE). The data provided in this repository are not covered by this license and are subject to the restrictions described above. Use of the data beyond validation of the results presented in this study requires prior permission from the Texas Parks and Wildlife Department.
