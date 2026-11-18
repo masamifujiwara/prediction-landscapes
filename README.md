@@ -1,5 +1,7 @@
 # prediction-landscapes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24348198.svg)](https://doi.org/10.5281/zenodo.24348198)
+
 **Author:** Masami Fujiwara
 **Affiliation:** Department of Ecology and Conservation Biology, Texas A&M University, College Station, TX 77843-2258, USA
 
@@ -12,6 +14,8 @@ Until the paper is published, please cite the preprint of the submitted version:
 Fujiwara, M. (2026). A Predictability Framework for Conservation Strategy: Empirical Evidence from Estuarine Biodiversity Forecasting. *bioRxiv*. https://doi.org/10.64898/2026.04.20.719659
 
 The citation will be updated when the revised paper is published. The code in this repository is the version used for the revised paper.
+
+The code and prepared data are archived on Zenodo. To cite the version used for the revised paper (2.0.0), use https://doi.org/10.5281/zenodo.24348198. To cite all versions, use https://doi.org/10.5281/zenodo.19665944.
 
 ## Repository contents
 
