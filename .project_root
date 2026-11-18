@@ -1,0 +1,3 @@
+Marker file for the project folder. Scripts look upward for this file to
+find the project, so keep it here, at the top of the project folder.
+See 01_Analysis/lib/paths.R.
