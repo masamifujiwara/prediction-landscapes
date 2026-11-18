@@ -1,0 +1,353 @@
+class,GEAR,target,target_label,horizon,scale,model_class,value,lo,hi,n_pos
+abundance,BS,601,Bay anchovy,1,Alpha,ARIMAX,22.8,19.95,27.28,7
+abundance,BS,601,Bay anchovy,1,Alpha,SARIMA,22.94,20.7,29.24,7
+abundance,BS,601,Bay anchovy,1,Alpha,SSM,22.19,18.59,28.95,7
+abundance,BS,601,Bay anchovy,1,Alpha,SSM-XREG,21.6,17.02,27.08,7
+abundance,BS,601,Bay anchovy,1,Gamma,ARIMAX,19.92,15.57,23.93,NA
+abundance,BS,601,Bay anchovy,1,Gamma,SARIMA,21.27,17.3,24.51,NA
+abundance,BS,601,Bay anchovy,1,Gamma,SSM,19.19,13.26,24.23,NA
+abundance,BS,601,Bay anchovy,1,Gamma,SSM-XREG,18.32,12.42,23.61,NA
+abundance,BS,602,Atlantic croaker,1,Alpha,ARIMAX,12.5,7.86,21.35,7
+abundance,BS,602,Atlantic croaker,1,Alpha,SARIMA,13.87,8.89,21.46,7
+abundance,BS,602,Atlantic croaker,1,Alpha,SSM,5.96,1.25,12.3,7
+abundance,BS,602,Atlantic croaker,1,Alpha,SSM-XREG,4.92,0.18,14.12,7
+abundance,BS,602,Atlantic croaker,1,Gamma,ARIMAX,7.45,1.26,14.14,NA
+abundance,BS,602,Atlantic croaker,1,Gamma,SARIMA,6.5,0.37,13.08,NA
+abundance,BS,602,Atlantic croaker,1,Gamma,SSM,-4.22,-10.4,4.93,NA
+abundance,BS,602,Atlantic croaker,1,Gamma,SSM-XREG,-4.65,-10.98,4.14,NA
+abundance,BS,604,Gulf menhaden,1,Alpha,ARIMAX,20.03,15.11,25.57,7
+abundance,BS,604,Gulf menhaden,1,Alpha,SARIMA,21.14,16.94,25.62,7
+abundance,BS,604,Gulf menhaden,1,Alpha,SSM,17.15,14.59,24.97,7
+abundance,BS,604,Gulf menhaden,1,Alpha,SSM-XREG,16.58,13.35,24.39,7
+abundance,BS,604,Gulf menhaden,1,Gamma,ARIMAX,12.51,6.89,18.68,NA
+abundance,BS,604,Gulf menhaden,1,Gamma,SARIMA,14.47,8.74,19.82,NA
+abundance,BS,604,Gulf menhaden,1,Gamma,SSM,9.75,2.57,17.78,NA
+abundance,BS,604,Gulf menhaden,1,Gamma,SSM-XREG,9.6,3.67,17.38,NA
+abundance,BS,608,Spot,1,Alpha,ARIMAX,12.87,10.3,20.23,7
+abundance,BS,608,Spot,1,Alpha,SARIMA,15.6,12.08,20.47,7
+abundance,BS,608,Spot,1,Alpha,SSM,10.31,7.82,20.02,7
+abundance,BS,608,Spot,1,Alpha,SSM-XREG,8.83,6.19,19.16,7
+abundance,BS,608,Spot,1,Gamma,ARIMAX,8.7,4.01,12.8,NA
+abundance,BS,608,Spot,1,Gamma,SARIMA,10.55,7.07,13.59,NA
+abundance,BS,608,Spot,1,Gamma,SSM,7.82,-1.11,15.35,NA
+abundance,BS,608,Spot,1,Gamma,SSM-XREG,7.33,-1.5,14.74,NA
+abundance,BS,633,Pinfish,1,Alpha,ARIMAX,14.56,10.84,24.16,7
+abundance,BS,633,Pinfish,1,Alpha,SARIMA,15.81,12.68,25.89,7
+abundance,BS,633,Pinfish,1,Alpha,SSM,11.27,6.12,24.1,7
+abundance,BS,633,Pinfish,1,Alpha,SSM-XREG,10.65,6.17,23.02,7
+abundance,BS,633,Pinfish,1,Gamma,ARIMAX,8.65,2.6,14.73,NA
+abundance,BS,633,Pinfish,1,Gamma,SARIMA,10.35,5.14,14.89,NA
+abundance,BS,633,Pinfish,1,Gamma,SSM,-3.33,-10.64,5.45,NA
+abundance,BS,633,Pinfish,1,Gamma,SSM-XREG,-1.2,-8.75,7.25,NA
+abundance,BS,9600,White shrimp,1,Alpha,ARIMAX,21.09,15.79,23.58,7
+abundance,BS,9600,White shrimp,1,Alpha,SARIMA,21.81,17.19,25.97,7
+abundance,BS,9600,White shrimp,1,Alpha,SSM,19.76,14.84,25.01,7
+abundance,BS,9600,White shrimp,1,Alpha,SSM-XREG,20.18,15.27,25.13,7
+abundance,BS,9600,White shrimp,1,Gamma,ARIMAX,23.25,16.55,28.81,NA
+abundance,BS,9600,White shrimp,1,Gamma,SARIMA,22.68,17.7,27.19,NA
+abundance,BS,9600,White shrimp,1,Gamma,SSM,21.19,12.13,29.52,NA
+abundance,BS,9600,White shrimp,1,Gamma,SSM-XREG,22.64,13.49,30.72,NA
+abundance,BS,9605,Blue crab,1,Alpha,ARIMAX,20.91,18.15,23.44,7
+abundance,BS,9605,Blue crab,1,Alpha,SARIMA,20.44,17.89,25.89,7
+abundance,BS,9605,Blue crab,1,Alpha,SSM,17.16,14.17,21.42,7
+abundance,BS,9605,Blue crab,1,Alpha,SSM-XREG,18.73,13.32,22.17,7
+abundance,BS,9605,Blue crab,1,Gamma,ARIMAX,18.89,14.65,21.82,NA
+abundance,BS,9605,Blue crab,1,Gamma,SARIMA,17.88,13.49,20.98,NA
+abundance,BS,9605,Blue crab,1,Gamma,SSM,11.59,3.52,17.2,NA
+abundance,BS,9605,Blue crab,1,Gamma,SSM-XREG,14.08,6.09,19.73,NA
+abundance,BS,9618,Brown shrimp,1,Alpha,ARIMAX,19.15,14.56,26.04,7
+abundance,BS,9618,Brown shrimp,1,Alpha,SARIMA,21.11,15.92,26.96,7
+abundance,BS,9618,Brown shrimp,1,Alpha,SSM,18.45,11.42,23.67,7
+abundance,BS,9618,Brown shrimp,1,Alpha,SSM-XREG,18.24,11.77,24.41,7
+abundance,BS,9618,Brown shrimp,1,Gamma,ARIMAX,15,9.74,19.9,NA
+abundance,BS,9618,Brown shrimp,1,Gamma,SARIMA,16.35,11.81,20.94,NA
+abundance,BS,9618,Brown shrimp,1,Gamma,SSM,9.48,0.46,18.61,NA
+abundance,BS,9618,Brown shrimp,1,Gamma,SSM-XREG,12.03,3.58,20.28,NA
+diversity,BS,0,q = 0,1,Alpha,ARIMAX,18.07,15.36,21.57,7
+diversity,BS,0,q = 0,1,Alpha,SARIMA,19.71,15.07,22.41,7
+diversity,BS,0,q = 0,1,Alpha,SSM,18.26,13.75,21.25,7
+diversity,BS,0,q = 0,1,Alpha,SSM-XREG,18.23,13.47,21.31,7
+diversity,BS,0,q = 0,1,Gamma,ARIMAX,10.78,1.12,17.91,NA
+diversity,BS,0,q = 0,1,Gamma,SARIMA,11.53,2.43,17.99,NA
+diversity,BS,0,q = 0,1,Gamma,SSM,8.03,-1.51,15.29,NA
+diversity,BS,0,q = 0,1,Gamma,SSM-XREG,8.49,-1.62,16.12,NA
+diversity,BS,1,q = 1,1,Alpha,ARIMAX,18.92,16.04,23.25,7
+diversity,BS,1,q = 1,1,Alpha,SARIMA,20.44,16.53,25.47,7
+diversity,BS,1,q = 1,1,Alpha,SSM,19.23,14.3,24.21,7
+diversity,BS,1,q = 1,1,Alpha,SSM-XREG,18.91,14.3,23.67,7
+diversity,BS,1,q = 1,1,Gamma,ARIMAX,16.3,5.22,24.49,NA
+diversity,BS,1,q = 1,1,Gamma,SARIMA,17.69,7.13,25.32,NA
+diversity,BS,1,q = 1,1,Gamma,SSM,15.66,2.97,25.13,NA
+diversity,BS,1,q = 1,1,Gamma,SSM-XREG,15.04,2.15,24.63,NA
+diversity,BS,2,q = 2,1,Alpha,ARIMAX,20.82,16.43,24.2,7
+diversity,BS,2,q = 2,1,Alpha,SARIMA,21.12,16.64,26.15,7
+diversity,BS,2,q = 2,1,Alpha,SSM,19.8,15.11,24.66,7
+diversity,BS,2,q = 2,1,Alpha,SSM-XREG,20.21,14.58,24.12,7
+diversity,BS,2,q = 2,1,Gamma,ARIMAX,20.1,9.79,27.9,NA
+diversity,BS,2,q = 2,1,Gamma,SARIMA,21.15,10.35,29.03,NA
+diversity,BS,2,q = 2,1,Gamma,SSM,21.31,9.2,30.87,NA
+diversity,BS,2,q = 2,1,Gamma,SSM-XREG,20.37,8.31,29.97,NA
+abundance,BS,601,Bay anchovy,12,Alpha,ARIMAX,22.32,19.61,28.84,7
+abundance,BS,601,Bay anchovy,12,Alpha,SARIMA,22.35,21.62,28.99,7
+abundance,BS,601,Bay anchovy,12,Alpha,SSM,22.25,20.27,27.44,7
+abundance,BS,601,Bay anchovy,12,Alpha,SSM-XREG,22.39,16.1,26.87,7
+abundance,BS,601,Bay anchovy,12,Gamma,ARIMAX,22.48,16.51,28.82,NA
+abundance,BS,601,Bay anchovy,12,Gamma,SARIMA,23.08,17.1,28.53,NA
+abundance,BS,601,Bay anchovy,12,Gamma,SSM,22.22,16.64,28.23,NA
+abundance,BS,601,Bay anchovy,12,Gamma,SSM-XREG,22.34,16.86,28.18,NA
+abundance,BS,602,Atlantic croaker,12,Alpha,ARIMAX,20.06,14.23,24.63,7
+abundance,BS,602,Atlantic croaker,12,Alpha,SARIMA,20.31,12.39,23.28,7
+abundance,BS,602,Atlantic croaker,12,Alpha,SSM,10.87,6.68,21.23,7
+abundance,BS,602,Atlantic croaker,12,Alpha,SSM-XREG,11.27,7.88,19.55,7
+abundance,BS,602,Atlantic croaker,12,Gamma,ARIMAX,14.56,6.01,23.23,NA
+abundance,BS,602,Atlantic croaker,12,Gamma,SARIMA,12.58,3.14,22.17,NA
+abundance,BS,602,Atlantic croaker,12,Gamma,SSM,6.56,1.73,11.79,NA
+abundance,BS,602,Atlantic croaker,12,Gamma,SSM-XREG,7.17,2.16,12.18,NA
+abundance,BS,604,Gulf menhaden,12,Alpha,ARIMAX,25.83,18.64,30.79,7
+abundance,BS,604,Gulf menhaden,12,Alpha,SARIMA,26.08,21.24,30.93,7
+abundance,BS,604,Gulf menhaden,12,Alpha,SSM,22.85,16.87,29.48,7
+abundance,BS,604,Gulf menhaden,12,Alpha,SSM-XREG,23.61,16.67,27.68,7
+abundance,BS,604,Gulf menhaden,12,Gamma,ARIMAX,14.4,3.9,24.55,NA
+abundance,BS,604,Gulf menhaden,12,Gamma,SARIMA,15.99,4.92,25.51,NA
+abundance,BS,604,Gulf menhaden,12,Gamma,SSM,17.98,10.52,24.86,NA
+abundance,BS,604,Gulf menhaden,12,Gamma,SSM-XREG,15.5,8.42,21.98,NA
+abundance,BS,608,Spot,12,Alpha,ARIMAX,18.48,16.98,26.35,7
+abundance,BS,608,Spot,12,Alpha,SARIMA,20.99,18.62,25.7,7
+abundance,BS,608,Spot,12,Alpha,SSM,16.31,11.23,23.29,7
+abundance,BS,608,Spot,12,Alpha,SSM-XREG,15.47,8.31,24.04,7
+abundance,BS,608,Spot,12,Gamma,ARIMAX,10.62,0.9,19.34,NA
+abundance,BS,608,Spot,12,Gamma,SARIMA,9.98,0.82,17.71,NA
+abundance,BS,608,Spot,12,Gamma,SSM,5.25,2.03,9.34,NA
+abundance,BS,608,Spot,12,Gamma,SSM-XREG,3.28,0.32,7.71,NA
+abundance,BS,633,Pinfish,12,Alpha,ARIMAX,21.25,15.95,26.66,7
+abundance,BS,633,Pinfish,12,Alpha,SARIMA,23.22,18.22,27.88,7
+abundance,BS,633,Pinfish,12,Alpha,SSM,18.67,13.53,27.87,7
+abundance,BS,633,Pinfish,12,Alpha,SSM-XREG,18.97,11.79,26.91,7
+abundance,BS,633,Pinfish,12,Gamma,ARIMAX,14.09,4.07,23.64,NA
+abundance,BS,633,Pinfish,12,Gamma,SARIMA,16.2,6.7,24.99,NA
+abundance,BS,633,Pinfish,12,Gamma,SSM,8.43,4.43,13.67,NA
+abundance,BS,633,Pinfish,12,Gamma,SSM-XREG,8.01,4.18,12.97,NA
+abundance,BS,9600,White shrimp,12,Alpha,ARIMAX,20.15,11.89,28.15,7
+abundance,BS,9600,White shrimp,12,Alpha,SARIMA,21.02,15.11,27.82,7
+abundance,BS,9600,White shrimp,12,Alpha,SSM,22.03,14.94,26.04,7
+abundance,BS,9600,White shrimp,12,Alpha,SSM-XREG,22.32,16.96,25.84,7
+abundance,BS,9600,White shrimp,12,Gamma,ARIMAX,12.07,3.26,20.31,NA
+abundance,BS,9600,White shrimp,12,Gamma,SARIMA,12.57,4.56,20.99,NA
+abundance,BS,9600,White shrimp,12,Gamma,SSM,13.41,5.77,20.88,NA
+abundance,BS,9600,White shrimp,12,Gamma,SSM-XREG,13.09,5.56,21.09,NA
+abundance,BS,9605,Blue crab,12,Alpha,ARIMAX,19.28,17.67,25.11,7
+abundance,BS,9605,Blue crab,12,Alpha,SARIMA,19.92,16.37,24.69,7
+abundance,BS,9605,Blue crab,12,Alpha,SSM,16.25,12.74,20.76,7
+abundance,BS,9605,Blue crab,12,Alpha,SSM-XREG,15.27,12.14,20.79,7
+abundance,BS,9605,Blue crab,12,Gamma,ARIMAX,15.06,9.03,20.77,NA
+abundance,BS,9605,Blue crab,12,Gamma,SARIMA,14.28,8.91,20.18,NA
+abundance,BS,9605,Blue crab,12,Gamma,SSM,11.54,6.55,16.39,NA
+abundance,BS,9605,Blue crab,12,Gamma,SSM-XREG,12,6.73,16.83,NA
+abundance,BS,9618,Brown shrimp,12,Alpha,ARIMAX,20.37,15.92,23.21,7
+abundance,BS,9618,Brown shrimp,12,Alpha,SARIMA,20.83,16.33,23.19,7
+abundance,BS,9618,Brown shrimp,12,Alpha,SSM,18.96,16.95,22.49,7
+abundance,BS,9618,Brown shrimp,12,Alpha,SSM-XREG,18.41,16.12,22.65,7
+abundance,BS,9618,Brown shrimp,12,Gamma,ARIMAX,14.16,6.44,22.24,NA
+abundance,BS,9618,Brown shrimp,12,Gamma,SARIMA,16.11,8.31,23.75,NA
+abundance,BS,9618,Brown shrimp,12,Gamma,SSM,14.59,5.23,23.47,NA
+abundance,BS,9618,Brown shrimp,12,Gamma,SSM-XREG,13.73,4.18,22.96,NA
+diversity,BS,0,q = 0,12,Alpha,ARIMAX,16.29,14.53,19.77,7
+diversity,BS,0,q = 0,12,Alpha,SARIMA,17.41,15.12,19.91,7
+diversity,BS,0,q = 0,12,Alpha,SSM,17.57,14.12,20.12,7
+diversity,BS,0,q = 0,12,Alpha,SSM-XREG,19.16,13.3,19.62,7
+diversity,BS,0,q = 0,12,Gamma,ARIMAX,12.7,3.9,22.61,NA
+diversity,BS,0,q = 0,12,Gamma,SARIMA,12.04,3.39,21.74,NA
+diversity,BS,0,q = 0,12,Gamma,SSM,11.64,2.23,21.44,NA
+diversity,BS,0,q = 0,12,Gamma,SSM-XREG,12.34,2.34,22.76,NA
+diversity,BS,1,q = 1,12,Alpha,ARIMAX,17.79,13.32,19.29,7
+diversity,BS,1,q = 1,12,Alpha,SARIMA,18.23,14.91,21.21,7
+diversity,BS,1,q = 1,12,Alpha,SSM,17.44,14.54,20.27,7
+diversity,BS,1,q = 1,12,Alpha,SSM-XREG,17.09,14.36,20.36,7
+diversity,BS,1,q = 1,12,Gamma,ARIMAX,14.35,4.1,25.03,NA
+diversity,BS,1,q = 1,12,Gamma,SARIMA,15.15,4.64,25.93,NA
+diversity,BS,1,q = 1,12,Gamma,SSM,14.41,3.32,25.56,NA
+diversity,BS,1,q = 1,12,Gamma,SSM-XREG,14.08,3.23,25.09,NA
+diversity,BS,2,q = 2,12,Alpha,ARIMAX,17.68,11.47,21.33,7
+diversity,BS,2,q = 2,12,Alpha,SARIMA,19.26,12.02,23.03,7
+diversity,BS,2,q = 2,12,Alpha,SSM,19.25,13.46,21.82,7
+diversity,BS,2,q = 2,12,Alpha,SSM-XREG,18.96,13.75,21.36,7
+diversity,BS,2,q = 2,12,Gamma,ARIMAX,15.39,5.22,25.71,NA
+diversity,BS,2,q = 2,12,Gamma,SARIMA,15.95,5.82,26.33,NA
+diversity,BS,2,q = 2,12,Gamma,SSM,16.86,6.61,27.14,NA
+diversity,BS,2,q = 2,12,Gamma,SSM-XREG,16.2,6.4,25.99,NA
+abundance,BT,601,Bay anchovy,1,Alpha,ARIMAX,15.19,13.36,20.56,7
+abundance,BT,601,Bay anchovy,1,Alpha,SARIMA,16.32,13.7,20.84,7
+abundance,BT,601,Bay anchovy,1,Alpha,SSM,12.55,10.86,20.28,7
+abundance,BT,601,Bay anchovy,1,Alpha,SSM-XREG,10.99,10.64,19.99,7
+abundance,BT,601,Bay anchovy,1,Gamma,ARIMAX,15.09,11.38,18.44,NA
+abundance,BT,601,Bay anchovy,1,Gamma,SARIMA,16.16,12.67,19.4,NA
+abundance,BT,601,Bay anchovy,1,Gamma,SSM,13.05,7.83,18.16,NA
+abundance,BT,601,Bay anchovy,1,Gamma,SSM-XREG,12.49,7.37,17.67,NA
+abundance,BT,602,Atlantic croaker,1,Alpha,ARIMAX,10.65,7.81,16.3,7
+abundance,BT,602,Atlantic croaker,1,Alpha,SARIMA,10.54,6.96,16.99,7
+abundance,BT,602,Atlantic croaker,1,Alpha,SSM,1.7,-3.39,11.35,6
+abundance,BT,602,Atlantic croaker,1,Alpha,SSM-XREG,1.15,-3.75,10.76,5
+abundance,BT,602,Atlantic croaker,1,Gamma,ARIMAX,7.64,0.64,13.77,NA
+abundance,BT,602,Atlantic croaker,1,Gamma,SARIMA,7.06,1.94,13.12,NA
+abundance,BT,602,Atlantic croaker,1,Gamma,SSM,-3.07,-8.9,4.36,NA
+abundance,BT,602,Atlantic croaker,1,Gamma,SSM-XREG,-2.97,-9.88,5.1,NA
+abundance,BT,604,Gulf menhaden,1,Alpha,ARIMAX,17.35,11.76,24.29,7
+abundance,BT,604,Gulf menhaden,1,Alpha,SARIMA,16.87,12.32,24.51,7
+abundance,BT,604,Gulf menhaden,1,Alpha,SSM,14.11,7.26,24.35,7
+abundance,BT,604,Gulf menhaden,1,Alpha,SSM-XREG,14.54,8.78,24.45,7
+abundance,BT,604,Gulf menhaden,1,Gamma,ARIMAX,13.78,8.23,18.36,NA
+abundance,BT,604,Gulf menhaden,1,Gamma,SARIMA,13.25,8.17,18.37,NA
+abundance,BT,604,Gulf menhaden,1,Gamma,SSM,7.96,1.81,12.7,NA
+abundance,BT,604,Gulf menhaden,1,Gamma,SSM-XREG,9.92,3.19,14.98,NA
+abundance,BT,608,Spot,1,Alpha,ARIMAX,9.97,7.47,16.43,7
+abundance,BT,608,Spot,1,Alpha,SARIMA,10.72,9.32,15.82,7
+abundance,BT,608,Spot,1,Alpha,SSM,4.9,-0.3,14.09,6
+abundance,BT,608,Spot,1,Alpha,SSM-XREG,4.84,-1.21,13.27,6
+abundance,BT,608,Spot,1,Gamma,ARIMAX,4.11,-1.39,7.35,NA
+abundance,BT,608,Spot,1,Gamma,SARIMA,6,1.89,10.25,NA
+abundance,BT,608,Spot,1,Gamma,SSM,0.67,-3.53,5.19,NA
+abundance,BT,608,Spot,1,Gamma,SSM-XREG,2.04,-4.5,7.18,NA
+abundance,BT,633,Pinfish,1,Alpha,ARIMAX,15.28,8.32,22.59,7
+abundance,BT,633,Pinfish,1,Alpha,SARIMA,16.32,9.37,22.98,7
+abundance,BT,633,Pinfish,1,Alpha,SSM,14.46,0.4,21.85,7
+abundance,BT,633,Pinfish,1,Alpha,SSM-XREG,12.64,0.7,21.71,7
+abundance,BT,633,Pinfish,1,Gamma,ARIMAX,7.69,3.69,11.94,NA
+abundance,BT,633,Pinfish,1,Gamma,SARIMA,8.12,5.02,11.18,NA
+abundance,BT,633,Pinfish,1,Gamma,SSM,4.13,-1.17,8.7,NA
+abundance,BT,633,Pinfish,1,Gamma,SSM-XREG,1.09,-4.74,6.01,NA
+abundance,BT,9600,White shrimp,1,Alpha,ARIMAX,14.87,3.73,23.4,7
+abundance,BT,9600,White shrimp,1,Alpha,SARIMA,13.78,5.87,23.64,7
+abundance,BT,9600,White shrimp,1,Alpha,SSM,14.94,1.55,23.34,7
+abundance,BT,9600,White shrimp,1,Alpha,SSM-XREG,16.06,-0.36,24.85,6
+abundance,BT,9600,White shrimp,1,Gamma,ARIMAX,20.7,15.05,25.7,NA
+abundance,BT,9600,White shrimp,1,Gamma,SARIMA,16.61,10.99,21.98,NA
+abundance,BT,9600,White shrimp,1,Gamma,SSM,20.99,15.01,27.15,NA
+abundance,BT,9600,White shrimp,1,Gamma,SSM-XREG,22.66,16.2,28.63,NA
+abundance,BT,9605,Blue crab,1,Alpha,ARIMAX,13.82,9.79,14.94,7
+abundance,BT,9605,Blue crab,1,Alpha,SARIMA,13.82,11.09,15.58,7
+abundance,BT,9605,Blue crab,1,Alpha,SSM,4.25,2.59,6.59,7
+abundance,BT,9605,Blue crab,1,Alpha,SSM-XREG,2.75,0.47,9.66,7
+abundance,BT,9605,Blue crab,1,Gamma,ARIMAX,7.82,4.51,14.26,NA
+abundance,BT,9605,Blue crab,1,Gamma,SARIMA,6.88,1.82,13.42,NA
+abundance,BT,9605,Blue crab,1,Gamma,SSM,-5.56,-11.63,5.67,NA
+abundance,BT,9605,Blue crab,1,Gamma,SSM-XREG,-7.91,-13.16,2.91,NA
+abundance,BT,9618,Brown shrimp,1,Alpha,ARIMAX,15.82,12.44,17.93,7
+abundance,BT,9618,Brown shrimp,1,Alpha,SARIMA,17.1,15.51,18.48,7
+abundance,BT,9618,Brown shrimp,1,Alpha,SSM,11.27,5.89,17.93,7
+abundance,BT,9618,Brown shrimp,1,Alpha,SSM-XREG,11.26,4.98,17.2,7
+abundance,BT,9618,Brown shrimp,1,Gamma,ARIMAX,11.63,6.89,17.77,NA
+abundance,BT,9618,Brown shrimp,1,Gamma,SARIMA,15.35,11,20.46,NA
+abundance,BT,9618,Brown shrimp,1,Gamma,SSM,7.19,-1.6,15.95,NA
+abundance,BT,9618,Brown shrimp,1,Gamma,SSM-XREG,9.96,1.93,18.5,NA
+diversity,BT,0,q = 0,1,Alpha,ARIMAX,14.4,9.34,20.2,7
+diversity,BT,0,q = 0,1,Alpha,SARIMA,14.24,10.92,20.55,7
+diversity,BT,0,q = 0,1,Alpha,SSM,11.17,5.1,17.83,7
+diversity,BT,0,q = 0,1,Alpha,SSM-XREG,11.34,3.79,16.98,7
+diversity,BT,0,q = 0,1,Gamma,ARIMAX,8.24,3.53,13.19,NA
+diversity,BT,0,q = 0,1,Gamma,SARIMA,8.76,4.34,13.48,NA
+diversity,BT,0,q = 0,1,Gamma,SSM,7.19,-1.44,14.89,NA
+diversity,BT,0,q = 0,1,Gamma,SSM-XREG,6.44,-2.31,14.82,NA
+diversity,BT,1,q = 1,1,Alpha,ARIMAX,14.46,7.67,20.13,7
+diversity,BT,1,q = 1,1,Alpha,SARIMA,15.09,8.4,20.53,7
+diversity,BT,1,q = 1,1,Alpha,SSM,10.59,3.02,20.41,7
+diversity,BT,1,q = 1,1,Alpha,SSM-XREG,10.47,2.39,19.53,7
+diversity,BT,1,q = 1,1,Gamma,ARIMAX,7.08,1.25,12.42,NA
+diversity,BT,1,q = 1,1,Gamma,SARIMA,7.44,2.2,12.47,NA
+diversity,BT,1,q = 1,1,Gamma,SSM,4.02,-6.34,13.23,NA
+diversity,BT,1,q = 1,1,Gamma,SSM-XREG,3.04,-7.95,12.85,NA
+diversity,BT,2,q = 2,1,Alpha,ARIMAX,15.08,8.14,20.95,7
+diversity,BT,2,q = 2,1,Alpha,SARIMA,16.9,8.84,22.73,7
+diversity,BT,2,q = 2,1,Alpha,SSM,12.57,3.05,22.56,7
+diversity,BT,2,q = 2,1,Alpha,SSM-XREG,12.71,2.92,21.8,7
+diversity,BT,2,q = 2,1,Gamma,ARIMAX,8.75,3.65,13.64,NA
+diversity,BT,2,q = 2,1,Gamma,SARIMA,9.57,5.4,14.08,NA
+diversity,BT,2,q = 2,1,Gamma,SSM,3.65,-6.05,12.02,NA
+diversity,BT,2,q = 2,1,Gamma,SSM-XREG,2.42,-7.98,11.22,NA
+abundance,BT,601,Bay anchovy,12,Alpha,ARIMAX,17.95,14.19,22.52,7
+abundance,BT,601,Bay anchovy,12,Alpha,SARIMA,17.96,15.55,23.97,7
+abundance,BT,601,Bay anchovy,12,Alpha,SSM,16.76,13.56,19.95,7
+abundance,BT,601,Bay anchovy,12,Alpha,SSM-XREG,16.11,13.99,20.31,7
+abundance,BT,601,Bay anchovy,12,Gamma,ARIMAX,18.93,12.76,25.24,NA
+abundance,BT,601,Bay anchovy,12,Gamma,SARIMA,20.41,14.72,26.39,NA
+abundance,BT,601,Bay anchovy,12,Gamma,SSM,18.41,14.32,23.11,NA
+abundance,BT,601,Bay anchovy,12,Gamma,SSM-XREG,17.11,12.78,21.99,NA
+abundance,BT,602,Atlantic croaker,12,Alpha,ARIMAX,19.09,16.86,21.52,7
+abundance,BT,602,Atlantic croaker,12,Alpha,SARIMA,20.4,16.9,21.52,7
+abundance,BT,602,Atlantic croaker,12,Alpha,SSM,8.93,3.3,20.29,7
+abundance,BT,602,Atlantic croaker,12,Alpha,SSM-XREG,7.17,2.39,20.4,7
+abundance,BT,602,Atlantic croaker,12,Gamma,ARIMAX,21.09,12.14,27.62,NA
+abundance,BT,602,Atlantic croaker,12,Gamma,SARIMA,13.24,4.22,18.89,NA
+abundance,BT,602,Atlantic croaker,12,Gamma,SSM,1.41,0.36,2.39,NA
+abundance,BT,602,Atlantic croaker,12,Gamma,SSM-XREG,3.37,1.34,5.16,NA
+abundance,BT,604,Gulf menhaden,12,Alpha,ARIMAX,24.7,10.23,31.2,7
+abundance,BT,604,Gulf menhaden,12,Alpha,SARIMA,25.69,11.26,31.93,7
+abundance,BT,604,Gulf menhaden,12,Alpha,SSM,17.36,11.45,26.17,7
+abundance,BT,604,Gulf menhaden,12,Alpha,SSM-XREG,16.94,10.83,26.41,7
+abundance,BT,604,Gulf menhaden,12,Gamma,ARIMAX,23.39,10.96,34.38,NA
+abundance,BT,604,Gulf menhaden,12,Gamma,SARIMA,23.03,9.86,34.69,NA
+abundance,BT,604,Gulf menhaden,12,Gamma,SSM,13.3,5.97,20.56,NA
+abundance,BT,604,Gulf menhaden,12,Gamma,SSM-XREG,16.26,8.92,23.53,NA
+abundance,BT,608,Spot,12,Alpha,ARIMAX,23.39,15.71,27.68,7
+abundance,BT,608,Spot,12,Alpha,SARIMA,22.81,16.58,28.1,7
+abundance,BT,608,Spot,12,Alpha,SSM,10.36,5.56,20.08,7
+abundance,BT,608,Spot,12,Alpha,SSM-XREG,8.01,4.87,20.46,7
+abundance,BT,608,Spot,12,Gamma,ARIMAX,12.67,4.99,19.08,NA
+abundance,BT,608,Spot,12,Gamma,SARIMA,18.17,10.48,25.5,NA
+abundance,BT,608,Spot,12,Gamma,SSM,3.86,1.9,5.91,NA
+abundance,BT,608,Spot,12,Gamma,SSM-XREG,2.74,-0.4,6.67,NA
+abundance,BT,633,Pinfish,12,Alpha,ARIMAX,22.47,19.7,26.11,7
+abundance,BT,633,Pinfish,12,Alpha,SARIMA,22,19.3,27.06,7
+abundance,BT,633,Pinfish,12,Alpha,SSM,16.25,4.58,25.22,7
+abundance,BT,633,Pinfish,12,Alpha,SSM-XREG,14.55,4.68,24.37,7
+abundance,BT,633,Pinfish,12,Gamma,ARIMAX,22.15,17.88,27.55,NA
+abundance,BT,633,Pinfish,12,Gamma,SARIMA,19.99,15.05,25.34,NA
+abundance,BT,633,Pinfish,12,Gamma,SSM,5.23,4.01,7.13,NA
+abundance,BT,633,Pinfish,12,Gamma,SSM-XREG,2.42,0.04,6.71,NA
+abundance,BT,9600,White shrimp,12,Alpha,ARIMAX,19.28,3.22,22.65,7
+abundance,BT,9600,White shrimp,12,Alpha,SARIMA,19.06,3.23,23.37,7
+abundance,BT,9600,White shrimp,12,Alpha,SSM,12.22,6.45,18.28,7
+abundance,BT,9600,White shrimp,12,Alpha,SSM-XREG,11.88,4.53,18.51,7
+abundance,BT,9600,White shrimp,12,Gamma,ARIMAX,14.2,8.75,19.93,NA
+abundance,BT,9600,White shrimp,12,Gamma,SARIMA,12.7,6.32,18.88,NA
+abundance,BT,9600,White shrimp,12,Gamma,SSM,9.15,6.16,12.3,NA
+abundance,BT,9600,White shrimp,12,Gamma,SSM-XREG,8.87,6.17,11.97,NA
+abundance,BT,9605,Blue crab,12,Alpha,ARIMAX,13.98,5.66,21.92,7
+abundance,BT,9605,Blue crab,12,Alpha,SARIMA,14.63,7.1,20.31,7
+abundance,BT,9605,Blue crab,12,Alpha,SSM,12.51,5.98,15.18,7
+abundance,BT,9605,Blue crab,12,Alpha,SSM-XREG,11.14,6.85,13.9,7
+abundance,BT,9605,Blue crab,12,Gamma,ARIMAX,0.49,-12.97,11,NA
+abundance,BT,9605,Blue crab,12,Gamma,SARIMA,-0.46,-17.31,11.69,NA
+abundance,BT,9605,Blue crab,12,Gamma,SSM,8.15,2.53,12.51,NA
+abundance,BT,9605,Blue crab,12,Gamma,SSM-XREG,7.61,1.87,11.56,NA
+abundance,BT,9618,Brown shrimp,12,Alpha,ARIMAX,20.51,16.35,23.85,7
+abundance,BT,9618,Brown shrimp,12,Alpha,SARIMA,20.69,17.91,25.36,7
+abundance,BT,9618,Brown shrimp,12,Alpha,SSM,17.63,14.73,20.74,7
+abundance,BT,9618,Brown shrimp,12,Alpha,SSM-XREG,16.94,12.63,20.39,7
+abundance,BT,9618,Brown shrimp,12,Gamma,ARIMAX,17.05,11.18,23.57,NA
+abundance,BT,9618,Brown shrimp,12,Gamma,SARIMA,18.06,11.81,24.4,NA
+abundance,BT,9618,Brown shrimp,12,Gamma,SSM,11.59,6.74,16.53,NA
+abundance,BT,9618,Brown shrimp,12,Gamma,SSM-XREG,11.4,6.39,16.33,NA
+diversity,BT,0,q = 0,12,Alpha,ARIMAX,18.52,10.17,25.9,7
+diversity,BT,0,q = 0,12,Alpha,SARIMA,20.96,14.43,25.45,7
+diversity,BT,0,q = 0,12,Alpha,SSM,14.02,9.05,19.14,7
+diversity,BT,0,q = 0,12,Alpha,SSM-XREG,14.03,7.32,17.43,7
+diversity,BT,0,q = 0,12,Gamma,ARIMAX,12.99,5.96,21.02,NA
+diversity,BT,0,q = 0,12,Gamma,SARIMA,10.5,3.09,18.24,NA
+diversity,BT,0,q = 0,12,Gamma,SSM,9.6,6.13,13.08,NA
+diversity,BT,0,q = 0,12,Gamma,SSM-XREG,10.01,6.06,13.7,NA
+diversity,BT,1,q = 1,12,Alpha,ARIMAX,18.98,10.99,25.76,7
+diversity,BT,1,q = 1,12,Alpha,SARIMA,20.58,13.19,26.89,7
+diversity,BT,1,q = 1,12,Alpha,SSM,16.28,9.44,25.28,7
+diversity,BT,1,q = 1,12,Alpha,SSM-XREG,17.17,6.44,24.74,7
+diversity,BT,1,q = 1,12,Gamma,ARIMAX,12.73,5.9,21.39,NA
+diversity,BT,1,q = 1,12,Gamma,SARIMA,14.49,6.72,22.9,NA
+diversity,BT,1,q = 1,12,Gamma,SSM,10.4,6.58,14.05,NA
+diversity,BT,1,q = 1,12,Gamma,SSM-XREG,9.25,4.99,13.46,NA
+diversity,BT,2,q = 2,12,Alpha,ARIMAX,19.33,12.63,27.59,7
+diversity,BT,2,q = 2,12,Alpha,SARIMA,21.66,15.42,28.45,7
+diversity,BT,2,q = 2,12,Alpha,SSM,19.38,9.79,27.25,7
+diversity,BT,2,q = 2,12,Alpha,SSM-XREG,18.75,7.51,26.88,7
+diversity,BT,2,q = 2,12,Gamma,ARIMAX,18.07,10.92,26.51,NA
+diversity,BT,2,q = 2,12,Gamma,SARIMA,19.53,12.21,27.28,NA
+diversity,BT,2,q = 2,12,Gamma,SSM,12.9,8.56,16.97,NA
+diversity,BT,2,q = 2,12,Gamma,SSM-XREG,11.15,6.66,15.67,NA
